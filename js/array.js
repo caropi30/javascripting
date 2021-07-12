@@ -1,3 +1,3 @@
 let pizzaToppings = ['tomato sauce', 'chesse', 'pepperoni'];
 
-console.log(pizzaToppings);
+console.table(pizzaToppings);
